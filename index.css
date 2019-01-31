@@ -1,0 +1,56 @@
+#Parent{
+    width: 700px;
+    height: 750px;
+    margin: auto;
+    display: flex;
+}
+#one{
+    position: relative;
+    left: 20vw;
+    top: 45.5vh;
+
+}
+#two{
+    position: relative;
+    left:-0.10vw;
+    top: -24vh;
+
+}
+#three{
+    position: relative;
+    right:-20%;
+    top: -25vh;
+}
+#four{
+    position: relative;
+    left: 18vw;
+    top:-35vw;
+    
+    
+}
+
+#five{
+    position: relative;
+    right:-78.8%;
+    top: -137%;
+
+}
+
+
+
+#six{
+    position: relative;
+    right:-58%;
+    top: -138%;
+
+}
+
+
+
+
+
+
+
+
+
+
